@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Philosopher&display=swap');
+body{
+    font-family: 'Pacifico', cursive;
+font-family: 'Philosopher', sans-serif;
+}
+h1{
+    background-color: rgb(113, 137, 160);
+    font-size: 60px;
+    color: rgb(243, 245, 247);
+}
+form input{
+    margin:10px auto;
+}
+button{
+    background-color: rgb(113, 137, 160); ;
+}
